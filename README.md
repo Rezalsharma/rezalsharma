@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Rezal!
 
 Welcome to my GitHub! I'm a Computer Engineering student on a journey to master **Data Engineering** and build real-world, impactful tech solutions 🚀.
 
@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a Computer Engineering student on a journey to master 
 ## 🧑‍💻 About Me
 - 🎓 1st-year Computer Engineering student  
 - 🛠️ Focused on **Data Engineering**, **Backend Development**, and **Cloud Technologies**  
-- 🏢 Founder of [**Ecobyte Solutions**](https://yourcompanywebsite.com) – Building sustainable digital solutions  
 - 🌱 Currently learning **Python**, **SQL**, **Docker**, and **ETL Pipelines**  
 - 🧠 Always curious about **systems design**, **data pipelines**, and **distributed computing**
 
